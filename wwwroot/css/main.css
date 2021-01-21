@@ -1,0 +1,37 @@
+﻿body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+label {
+    font-size: 20px;
+    color: dodgerblue;
+    width: 100px;
+    display: inline-block;
+}
+
+.quiz-props {
+    list-style-type: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.topJobs {
+    list-style-type: none
+}
